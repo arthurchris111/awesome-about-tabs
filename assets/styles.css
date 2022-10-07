@@ -4,3 +4,19 @@ body{
 .container{
     height: 100vh;
 }
+
+.text-container{
+    margin-bottom: 20px!important;
+}
+
+img {
+  width: 400px;
+  /* height: 300px; */
+  object-fit: fill;
+
+}
+
+.card{
+  width: 400px;
+}
+
